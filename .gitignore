@@ -1,3 +1,5 @@
 *.key
 *.pkl
 *.out
+unsloth_compiled_cache/*
+*.jsonl
