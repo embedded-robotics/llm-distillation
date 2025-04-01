@@ -3,3 +3,4 @@
 *.out
 unsloth_compiled_cache/*
 *.jsonl
+llama32-sft-peft-kabatubare/*
