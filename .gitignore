@@ -3,5 +3,5 @@
 *.out
 unsloth_compiled_cache/*
 *.jsonl
-llama32-sft-peft-kabatubare/*
+llama32-sft-peft-kabatubare-phase2-distill/*
 test.py
