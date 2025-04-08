@@ -5,4 +5,5 @@ unsloth_compiled_cache/*
 *.jsonl
 llama32-sft-peft-kabatubare-phase2-distill/*
 llama32-sft-peft-kabatubare-phase3-groundtruth/*
+llama32-sft-peft-kabatubare-phase3-distill-groundtruth/*
 test.py
