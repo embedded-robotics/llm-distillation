@@ -1,6 +1,7 @@
 *.key
 *.out
-unsloth_compiled_cache/*
+freedom_intelligence_dataset/unsloth_compiled_cache/*
+kabatubare_medical_dataset/unsloth_compiled_cache/*
 kabatubare_medical_dataset/llama32-sft-peft-kabatubare-phase2-distill/*
 kabatubare_medical_dataset/llama32-sft-peft-kabatubare-phase3-groundtruth/*
 kabatubare_medical_dataset/llama32-sft-peft-kabatubare-phase3-distill-groundtruth/*
