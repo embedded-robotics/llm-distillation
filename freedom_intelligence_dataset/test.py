@@ -48,7 +48,7 @@ model, tokenizer = FastLanguageModel.from_pretrained(
     max_seq_length = 1024, # [NEW!] Max sequence length for the model
     load_in_4bit = False, # 4 bit quantization to reduce memory
     load_in_8bit = False, # [NEW!] A bit more accurate, uses 2x memory
-    full_finetuning = True, # [NEW!] We have full finetuning now!
+    full_finetuning = False, # [NEW!] We have full finetuning now!
     dtype=None, #None for auto-detection. Can be torch.bfloat16 or torch.float16 (will be automatically detected)
     device_map="auto"
 )
