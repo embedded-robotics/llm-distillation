@@ -6,3 +6,4 @@ kabatubare_medical_dataset/llama32-sft-peft-kabatubare-phase2-distill/*
 kabatubare_medical_dataset/llama32-sft-peft-kabatubare-phase3-groundtruth/*
 kabatubare_medical_dataset/llama32-sft-peft-kabatubare-phase3-distill-groundtruth/*
 freedom_intelligence_dataset/llama32-sft-peft-freedom-intelligence-phase3-groundtruth/*
+*.sqlite3
